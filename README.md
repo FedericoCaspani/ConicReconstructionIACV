@@ -1,4 +1,6 @@
 # ConicReconstructionIACV
+This repository implements a 3D conic reconstruction methods from multiple views.
+For better understanding please read our report [Report_ConicReconstruction](Report_ConicReconstruction.pdf)
 
 ### Instructions
 The repository contains two notebooks for the experiments:
